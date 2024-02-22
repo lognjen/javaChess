@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c066aaec-9276-428b-92cf-3ec256a9015c" name="Changes" comment="Made Tile class immutable, added a map of all empty tiles and a way to create new tiles">
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" afterDir="false" />
+    <list default="true" id="c066aaec-9276-428b-92cf-3ec256a9015c" name="Changes" comment="Started work on Piece class">
+      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706793058597</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started work on Piece class">
+      <created>1708260430896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708260430896</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +102,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit, created Tile class" />
     <MESSAGE value="Made Tile class immutable, added a map of all empty tiles and a way to create new tiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Tile class immutable, added a map of all empty tiles and a way to create new tiles" />
+    <MESSAGE value="Started work on Piece class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started work on Piece class" />
   </component>
 </project>
